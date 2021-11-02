@@ -1,0 +1,16 @@
+.notification-box{
+    padding: 10px 15px;
+    width: 100%;
+    display: none;
+}
+.failed{
+    background: rgb(216, 146, 125);
+
+}
+.success {
+    background: #badeca;
+
+}
+.show {
+    display: block;
+}
